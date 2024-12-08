@@ -1,0 +1,19 @@
+{
+  "name": "finalldrillingmodulo6",
+  "version": "1.0.0",
+  "description": "Proyecto Final Modulo 6 Node.js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "author": "Sebastián Peña <sebastian.pena.jorquera@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
