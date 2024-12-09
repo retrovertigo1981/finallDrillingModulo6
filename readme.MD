@@ -1,6 +1,6 @@
 # Final Drilling Módulo 6 Node.js - Proyecto Anime
 
-[Imgur](https://i.imgur.com/YnAqb4j.gifv)
+![DanDaDan](https://i.imgur.com/YnAqb4j.gif)
 
 Este proyecto es un CRUD de una base de datos que almacena información sobre animes, desarrollado como parte del Bootcamp Desarrollo FullStack JavaScript de Talento Digital. Utiliza **Node.js** para crear un servidor básico y manipular datos desde un archivo JSON. La funcionalidad se evalúa a través de **Postman**, y las pruebas automatizadas se implementan con **Jest**.
 
