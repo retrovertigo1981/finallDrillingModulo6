@@ -1,7 +1,7 @@
 {
   "name": "finalldrillingmodulo6",
   "version": "1.0.0",
-  "description": "Proyecto Final Modulo 6 Node.js",
+  "description": "Final Drilling del Modulo 6 Node.js del Bootcamp Desarrollo FullStack JavaScript Talento Digital",
   "main": "index.js",
   "type": "module",
   "scripts": {
