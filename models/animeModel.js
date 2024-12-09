@@ -15,4 +15,14 @@ export class animeModel {
 
     return anime[id];
   }
+
+  static async createAndUpdateAnime(anime) {
+    try {
+      await updateFile(animeModel.folder, animeModel.fileName, anime);
+      return true;
+    } catch (error) {
+      console.error(error);
+      return false;
+    }
+  }
 }
